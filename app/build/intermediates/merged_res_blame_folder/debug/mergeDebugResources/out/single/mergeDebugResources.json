@@ -1,74 +1,98 @@
 [
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.taskflow.app-debug-68:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.taskflow.app-debug-68:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.taskflow.app-debug-68:/drawable-xxhdpi_ic_trash.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xxhdpi/ic_trash.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/drawable/ic_launcher_background.xml"
+        "merged": "com.taskflow.app-debug-68:/drawable-xxxhdpi_ic_tasks.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xxxhdpi/ic_tasks.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.taskflow.app-debug-68:/drawable-hdpi_ic_trash.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-hdpi/ic_trash.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/drawable-xhdpi_ic_trash.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xhdpi/ic_trash.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/drawable_ic_tasks.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable/ic_tasks.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/drawable-xxhdpi_ic_tasks.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xxhdpi/ic_tasks.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/drawable-xhdpi_ic_tasks.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xhdpi/ic_tasks.png"
+    },
+    {
+        "merged": "com.taskflow.app-debug-68:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.taskflow.app-main-70:/drawable/ic_launcher_foreground.xml"
     },
     {
         "merged": "com.taskflow.app-debug-68:/drawable_ic_trash.png.flat",
         "source": "com.taskflow.app-main-70:/drawable/ic_trash.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/drawable_ic_trash.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/drawable/ic_trash.png"
+        "merged": "com.taskflow.app-debug-68:/drawable-hdpi_ic_tasks.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-hdpi/ic_tasks.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.taskflow.app-debug-68:/drawable-xxxhdpi_ic_trash.png.flat",
+        "source": "com.taskflow.app-main-70:/drawable-xxxhdpi/ic_trash.png"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.taskflow.app-debug-68:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.taskflow.app-main-70:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/drawable_ic_tasks.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/drawable/ic_tasks.png"
-    },
-    {
-        "merged": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-debug-68:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/krishnachaitanya/.gradle/daemon/8.9/com.taskflow.app-main-70:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.taskflow.app-debug-68:/drawable_ic_tasks.png.flat",
-        "source": "com.taskflow.app-main-70:/drawable/ic_tasks.png"
+        "merged": "com.taskflow.app-debug-68:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.taskflow.app-main-70:/mipmap-hdpi/ic_launcher.png"
     }
 ]
